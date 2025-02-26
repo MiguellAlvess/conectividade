@@ -1,0 +1,11 @@
+#footer-container{
+    display: flex;
+    justify-content: space-around;
+    background-color: #084C68;
+    color: white;
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+    height: 10rem;
+    
+}

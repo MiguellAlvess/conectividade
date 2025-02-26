@@ -1,0 +1,46 @@
+#content-container {
+    background-color: #dce2fa;
+    margin-top: 400px;
+    width: 100%;
+    margin: 0 auto;
+    flex: 1;
+}
+
+#content {
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    padding: 2rem;
+}
+
+#about-project {
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    padding: 1rem;
+}
+#text {
+    font-size: 1rem; 
+    line-height: 1.6; 
+    text-align: justify; 
+    margin-bottom: 1rem; 
+    word-wrap: break-word; 
+    overflow-wrap: break-word; 
+}
+
+
+h1 {
+    padding-bottom: 2rem;
+}
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: medium;
+    }
+}
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: medium;
+    }
+}
