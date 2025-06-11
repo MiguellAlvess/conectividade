@@ -1,4 +1,4 @@
-# Projeto Conectividade
+# Conectividade na Paraíba
 
 Aplicação web desenvolvida para mapear a conectividade no estado da Paraíba, com o objetivo de identificar áreas com acesso limitado ou inexistente à internet e, a partir disso, fornecer subsídios para a formulação de políticas públicas que promovam a inclusão digital. A aplicação conta com um mapa interativo, que exibe os dados de conectividade reunidos em todo o território paraibano, permitindo uma visualização clara e dinâmica das regiões com maior necessidade de atenção. O projeto foi realizado em parceria com demandantes reais e possui grande relevância social, contribuindo para a redução das desigualdades regionais no acesso à informação e à tecnologia.
 
